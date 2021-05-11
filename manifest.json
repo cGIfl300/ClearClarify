@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "ClearClarify",
+  "version": "1.0",
+
+  "description": "Profitez de vos vidéo en supprimant le bandeau clarify de youtube.",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["clearclarify.js"]
+    }
+  ]
+
+}
