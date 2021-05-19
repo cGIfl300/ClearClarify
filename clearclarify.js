@@ -1,2 +1,3 @@
 // That easy !
-document.getElementById("clarify-box").innerHTML="";
+el = document.getElementById("clarify-box");
+el.hidden = true;
