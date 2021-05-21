@@ -8,5 +8,5 @@ Fortunately there is an easy way to remove them... writing an extension, then I 
 
 ## How to install?
 
-You can get it on the [official add-ons page for the mozilla project](https://github.com/cGIfl300/ClearClarify) or downloading it directly from the GitHub repository.  
+You can get it on the [official add-ons page for the mozilla project](https://github.com/cGIfl300/ClearClarify) or download it directly from the GitHub repository.  
 ✨ I hope you will adopt and enjoy this new extension. ✨
